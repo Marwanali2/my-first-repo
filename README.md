@@ -1,4 +1,6 @@
 # my-first-repo
 test first repo.  
-lol.  
-my name is **marwan**.
+## this link is how to write **markdown** language **https://www.markdownguide.org/basic-syntax**.  
+
+my name is **marwan**.  
+
